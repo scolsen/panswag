@@ -1,0 +1,26 @@
+{
+  "name": "panswag",
+  "version": "1.0.0",
+  "description": "Transform swagger file contents into other formats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scolsen/panswag.git"
+  },
+  "keywords": [
+    "swagger",
+    "panswag"
+  ],
+  "author": "Scott Olsen",
+  "license": "ISC",
+  "bin": {
+    "panswag": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/scolsen/panswag/issues"
+  },
+  "homepage": "https://github.com/scolsen/panswag#readme"
+}
