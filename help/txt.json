@@ -1,0 +1,5 @@
+{
+	"name": "txt",
+	"synopsis": "txt [options]... [files]...",
+	"description": "Renders swagger contents as txt file format ouput"
+}
