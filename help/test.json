@@ -1,5 +1,5 @@
 {
 	"name": "test",
-	"synopsis": "",
-	"description": ""
+	"synopsis": "test [option]...",
+	"description": "Test pandocs handling"
 }
