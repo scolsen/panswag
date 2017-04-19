@@ -1,0 +1,5 @@
+{
+	"name": "view",
+	"synopsis": "view [options]... [values]...",
+	"description": "View swagger file contents in the console."
+}
