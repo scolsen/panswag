@@ -6,7 +6,7 @@ const path = require('path');
 global.rootDir = path.resolve(__dirname);
 
 //grab version
-let pkgf = fs.readFileSync('./package.json');
+let pkgf = fs.readFileSync(rootDir + '/package.json');
 let pkgj = JSON.parse(pkgf); 
 
 console.log(pkgj.name + " " + pkgj.version + "\n\t" + pkgj.description);
